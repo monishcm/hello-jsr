@@ -1,0 +1,11 @@
+{
+  "name": "@monishcm-jsr/hello-jsr",
+  "version": "0.1.6",
+  "description": "a calculator demo package",
+  "main": "mod.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
