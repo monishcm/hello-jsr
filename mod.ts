@@ -10,6 +10,8 @@
 * 
 */
 
+import * as complex from 'complex';
+
 /**
  * 
  * @param a first number
@@ -51,4 +53,14 @@ export function divide(a: number, b: number): number {
         throw new Error("Cannot divide by zero");
     }
     return a / b;
+}
+
+/**
+ * 
+ * @param a first complex number
+ * @param b second complex number
+ * @returns addition of a and b
+ */
+export function complexAdd(a: complex, b: complex): complex {
+    return complex.add(a, b);
 }
