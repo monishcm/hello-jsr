@@ -1,6 +1,13 @@
 /**
 * This module contains functions to add / subtract / multiply and divide 2 numbers. 
 * @module mod.ts
+* 
+*  * ```ts
+* import { add } from "@monishcm-jsr/hello-jsr";
+*
+*  add (1, 2) // returns 3
+* ```
+* 
 */
 
 /**
