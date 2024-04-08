@@ -10,7 +10,7 @@
 * 
 */
 
-import * as complex from 'npm:complex';
+import * as complex from 'npm:complex@next';
 
 /**
  * 
