@@ -1,10 +1,7 @@
-// calculator.ts
-
-+ /**
-+  * This module contains functions to add / subtract / multiply and divide 2 numbers.
-+  * @module
-+  */
-
+/**
+* This module contains functions to add / subtract / multiply and divide 2 numbers. 
+* @module mod.ts
+*/
 
 /**
  * 
